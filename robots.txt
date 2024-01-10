@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vin-spiegel.github.io/blog/sitemap-index.xml
+Host: https://vin-spiegel.github.io
